@@ -1,5 +1,5 @@
 .lead__title {
-  margin: 0 auto 32px;
+  margin: 48px auto 32px;
   max-width: 720px;
   font-size: 96px;
   font-weight: 900;
@@ -10,7 +10,7 @@
 /* когда уменьшить размер для мелкого экрана*/
 @media screen and (max-width: 720px) {
   .lead__title {
-    margin: 0 auto 16px;
+    margin: 48px auto 16px;
     max-width: 288px;
     font-size: 40px;
     line-height: 44px;
