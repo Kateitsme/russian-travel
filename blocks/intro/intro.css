@@ -4,14 +4,14 @@
   width: calc(100% - 148px - 442px);
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .intro {
     margin-left: 48px;
     width: calc(100% - 48px - 286px);
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .intro {
     margin-left: 24px;
     width: calc(100% - 48px);

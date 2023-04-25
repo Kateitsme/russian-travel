@@ -32,22 +32,20 @@
   opacity: 0.8;
 }
 
-/* 1024 */
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .cover__background {
   min-height: 640px;
   }
 }
 
-/* 768 */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .cover__background {
   min-height: 480px;
   }
 }
 
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 550px) {
   .cover__background {
   min-height: 200px;
   justify-content: flex-start;
